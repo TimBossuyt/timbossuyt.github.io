@@ -9,7 +9,7 @@ description: I bypassed the Duux Edge radiator's cloud dependency by interceptin
 ## Introduction
 I recently purchased a **Duux Edge** radiator. It features a sleek design and remote app control, but out of the box, it relies entirely on the cloud. As someone who prefers local control for my smart home, both for privacy and reliability, I wanted to integrate it directly into **Home Assistant** without depending on external servers.
 
-Thanks to some dedicated research by users on the Home Assistant forum (huge thanks to them!), it was discovered that the Duux Edge uses MQTT over TLS to communicate with Duux's cloud servers. This opened up an exciting possibility: if we could redirect this traffic, we could potentially trick the device into talking to a local broker instead.
+Thanks to some dedicated research by users on the [Home Assistant Forum](https://community.home-assistant.io/t/experience-integrating-duux-products/386403) (huge thanks to them!), it was discovered that the Duux Edge uses MQTT over TLS to communicate with Duux's cloud servers. This opened up an exciting possibility: if we could redirect this traffic, we could potentially trick the device into talking to a local broker instead.
 
 This post documents how I intercepted the device's cloud communication and set up a local MQTT broker to control the radiator entirely locally, without writing a custom integration or reverse-engineering a custom protocol written in alien language.
 
