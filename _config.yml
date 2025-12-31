@@ -16,7 +16,7 @@ timezone: Europe/Berlin
 
 title: Tim Bossuyt # the main title
 
-tagline: My Personal Website # it will display as the subtitle
+tagline: Mechatronics Engineer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   This is my personal website where I share my projects and blog posts.
@@ -60,7 +60,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-2H2E9P0BM9 # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:

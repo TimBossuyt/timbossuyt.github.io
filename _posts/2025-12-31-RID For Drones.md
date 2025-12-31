@@ -15,7 +15,9 @@ A UAS operation is classified as either 'specific' or 'open' based on the associ
 ### Remote Identification
 Remote identification enables authorities, as well as members of the public, to identify drones in real-time using a smartphone app. This system broadcasts details such as the drone's location, the operator's position and registration number. Exposing these details helps to increase public acceptance of drones by promoting accountability and transparency but also aids in faster responses to unauthorized flights.
 
-There are currently two types of RID technology: Direct Remote ID (DRI) and Network Remote ID (NRI). DRI is the most frequently used method because it can use the commonly accessible Wi-Fi and Bluetooth channels to broadcast the data. NRI, on the other hand, is used exclusively for special operations within the specific category and transmits information over an internet connection. The rest of this paper will focus on DRI.
+There are currently two types of RID technology: Direct Remote ID (DRI) and Network Remote ID (NRI). DRI is the most frequently used method because it can use the commonly accessible Wi-Fi and Bluetooth channels to broadcast the data. NRI, on the other hand, is used exclusively for special operations within the specific category and transmits information over an internet connection. The rest of this post will focus on DRI.
+
+
 ## Regulations in the EU
 ### Regulation 2019/945
 EU Regulation 2019/945 establishes a legal framework for the safe operation and management of UAS within the European Union. This regulation is a key component of the EU's broader drone legislation and forms a crucial step towards harmonizing drone regulations across the EU. It sets specific requirements for the design and manufacturing of drones, with further practical details provided in the complementary regulation 2019/947.
