@@ -3,7 +3,7 @@ title: Direct Remote ID for Drones Using OpenDroneID
 date: 2025-12-31 14:00:00 +0100
 categories: [Drones]
 tags: [drone, remoteid]
-description: 
+description: As of January 1, 2024, the implementation of Remote Identification for Drones (RID) has become mandatory for Unmanned Aircraft Systems (UAS) operating in both the specific and open categories (except for drones weighing less than 250 grams). This regulation addresses the growing need for drone management and community safety by allowing real-time identification of drones during a flight.
 ---
 
 ## Introduction
