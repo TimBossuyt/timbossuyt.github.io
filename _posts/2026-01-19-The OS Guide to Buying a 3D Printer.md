@@ -3,11 +3,11 @@ title: The OS Guide to Buying a 3D Printer
 date: 2026-01-19 20:00:00 +0100
 categories: [3D Printing]
 tags: [fdm, os]
-description: With 3D printing technology becoming more accessible than ever, the question "Which printer should I buy?" is being asked more frequently. I recently developed a simple analogy to help guide newcomers - comparing 3D printer brands to the "Big Three" operating systems.
+description: With 3D printing technology becoming more accessible than ever, the question "Which printer should I buy?" is being asked more frequently. I recently came up with a simple analogy to help guide newcomers - comparing 3D printer brands to the "Big Three" operating systems.
 ---
 
 ## Introduction
-With 3D printing technology becoming more accessible than ever, the question "Which printer should I buy?" is being asked more frequently. I recently developed a simple analogy to help guide newcomers: comparing 3D printer brands to the "Big Three" operating systems. While the analogy isn't perfect (e.g. the pricing model) the user experience and community culture of printer brands map surprisingly well to MacOS, Windows, and Linux.
+With 3D printing technology becoming more accessible than ever, the question "Which printer should I buy?" is being asked more frequently. I recently came up with a simple analogy to help guide newcomers: comparing 3D printer brands to the "Big Three" operating systems. While the analogy isn't perfect (e.g. the pricing model) the user experience and community culture of printer brands map surprisingly well to MacOS, Windows, and Linux.
 
 (Note: These analogies are broad generalizations based on my personal opinion. No offense is intended toward any specific brand or user base, please take this comparison with a grain of salt!)
 
